@@ -90,7 +90,7 @@ photo-editor/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/photo-editor.git
+git clone https://github.com/MadhaviMaturi/photo-editor.git
 ```
 
 ### Move into the Project Folder
@@ -197,7 +197,7 @@ B.Tech – Mechanical
 
 ## 🤝 Connect
 
-**GitHub:** *(Add your GitHub profile)*
+**GitHub:** https://github.com/MadhaviMaturi
 
 **LinkedIn:** *https://github.com/MadhaviMaturi/photo-editior-open-cv/tree/main
 
